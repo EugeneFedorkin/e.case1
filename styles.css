@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f7f7f7;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    width: 300px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(40,40,40);
+}
+
+label, select, input {
+    display: block;
+    margin: 10px 0;
+}
+
+label {
+    color: rgb(40,40,40); /* Цвет текста для меток */
+}
+
+select {
+    background-color: #ecf0f1; /* Цвет фона для выпадающего списка */
+    border: 1px solid rgb(40,40,40); /* Граница для выпадающего списка */
+}
+
+input {
+    background-color: #ecf0f1; /* Цвет фона для полей ввода */
+    border: 1px solid rgb(40,40,40); /* Граница для полей ввода */
+}
+
+button {
+    background-color: rgb(40,40,40);
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #717171;
+}

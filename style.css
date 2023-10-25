@@ -1,0 +1,74 @@
+.my-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #474747; 
+    color: #fff; 
+    border: none; 
+    border-radius: 5px; 
+    text-align: center; 
+    text-decoration: none; 
+    font-size: 16px; 
+    cursor: pointer; 
+    transition: background-color 0.3s; 
+  }
+  
+  .my-button:hover {
+    background-color: #767676; 
+  }
+  
+  .shrift{
+    color: rgb(48,48,48);
+    font-size: 18px; 
+    font-weight: bold; 
+    font-style: italic; 
+    text-decoration:dotted; 
+    font-family: "Helvetica Neue", sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+}
+
+h1 {
+    font-size: 36px;
+    color: #333;
+    text-align: center;
+    text-transform: uppercase; 
+    letter-spacing: 2px; 
+  }
+  
+  
+  body {
+    background-color: #f7f7f7; 
+    font-family: Arial, sans-serif; 
+  }
+  
+  
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .button:hover {
+    background-color: #2980b9;
+  }
+  
+ 
+  a {
+    text-decoration: none;
+    color: #3498db; 
+  }
+  
+  a:hover {
+    color: #2980b9; 
+  }
+  
+  
+ 
+
